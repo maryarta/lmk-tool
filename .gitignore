@@ -1,1 +1,5 @@
 /build/
+.gradle
+.kotlin
+.idea
+.DS_Store
