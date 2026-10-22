@@ -1,7 +1,7 @@
 ## Запуск
 
 ```sh
-cd /Users/maria/IdeaProjects/lmk-tool
+./gradlew fatJar
 java -jar build/libs/lmk-tool.jar
 ```
 
